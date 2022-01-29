@@ -12,6 +12,6 @@ npm i three
 
 ## To Check This Repo
 
-git clone <this repo>
+git clone this repo
 npm install
 npm run dev
